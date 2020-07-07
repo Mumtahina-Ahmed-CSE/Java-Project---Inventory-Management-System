@@ -1,0 +1,9 @@
+asus	1	47000	10	laptop
+hp	4	49000	10	laptop
+Walton	5	10000	8	mobile
+HTC	6	18000	4	mobile
+A4Tech	7	650	15	mouse
+Samsung	8	20000	7	tab
+Alienware	9	280000	3	Laptop
+Xiaomi Redmi	10	13000	19	mobile
+dell	2	78000	12	laptop
